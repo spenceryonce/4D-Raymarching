@@ -5,7 +5,7 @@ a Unity framework to create spacial 4 dimentional games, using raymarching
 https://youtu.be/nUExziADzjc
 
 ## Workings
-### Taymarching
+### Raymarching
 This project uses raymarching, the objects are expanded to the 4th dimension. so each object is defined by 4 parameters: x,y,z,w.
 
 The world then fixes the W axis to a set value and the resulting shapes can be displayed in 3D space.
